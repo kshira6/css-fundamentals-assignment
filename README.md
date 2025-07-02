@@ -1,5 +1,7 @@
 # CSS Accordion Menu Project
 
+## NAME: KSHIRA K
+
 ## 📋 Project Overview
 
 This project is a **pure HTML and CSS accordion-style menu**. It features multiple collapsible sections (like MILKSHAKES, FALOODA, MUTTON, etc.) where clicking on each header expands the content beneath it.
